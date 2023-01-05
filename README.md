@@ -17,4 +17,4 @@ hi, i'm [Muhammad Alif Ramadhan Mappunna], an undergraduate student of Informati
 
 📈 my github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliprm&show_icons=true" alt="fawazalrasyid" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlipRm&show_icons=true" alt="AlipRm" />
