@@ -15,6 +15,3 @@ hi, i'm [Muhammad Alif Ramadhan Mappunna], an undergraduate student of Informati
 - 💼 any freelance work? do reach, [email](mailto:alifrm710@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-📈 my github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlipRm&show_icons=true" alt="AlipRm" />
